@@ -1,0 +1,2 @@
+line_package
+-DCATKIN_DEVEL_PREFIX=/home/timmy/ros_project/line_ws/devel -DCMAKE_INSTALL_PREFIX=/home/timmy/ros_project/line_ws/install -G Unix Makefiles

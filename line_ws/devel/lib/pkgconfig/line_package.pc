@@ -1,0 +1,8 @@
+prefix=/home/timmy/ros_project/line_ws/devel
+
+Name: line_package
+Description: Description of line_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/timmy/ros_project/line_ws/devel/lib 
+Requires: 
