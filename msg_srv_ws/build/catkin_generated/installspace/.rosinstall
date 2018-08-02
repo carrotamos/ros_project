@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/timmy/ros_project/msg_srv_ws/install/setup.sh

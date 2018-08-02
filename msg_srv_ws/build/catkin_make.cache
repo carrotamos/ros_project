@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/timmy/ros_project/msg_srv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/timmy/ros_project/msg_srv_ws/install -G Unix Makefiles
