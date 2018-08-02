@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/timmy/ros_project/line_and_point_ws/install/setup.sh

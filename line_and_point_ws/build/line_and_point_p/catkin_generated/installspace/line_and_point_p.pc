@@ -1,0 +1,8 @@
+prefix=/home/timmy/ros_project/line_and_point_ws/install
+
+Name: line_and_point_p
+Description: Description of line_and_point_p
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/timmy/ros_project/line_and_point_ws/install/lib 
+Requires: 

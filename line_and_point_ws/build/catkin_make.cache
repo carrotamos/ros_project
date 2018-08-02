@@ -1,0 +1,2 @@
+line_and_point_p
+-DCATKIN_DEVEL_PREFIX=/home/timmy/ros_project/line_and_point_ws/devel -DCMAKE_INSTALL_PREFIX=/home/timmy/ros_project/line_and_point_ws/install -G Unix Makefiles
